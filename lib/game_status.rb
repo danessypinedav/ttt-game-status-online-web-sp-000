@@ -57,6 +57,12 @@ end
 end 
 
 def winner(board)
+  def winner (board)
+  index = []
+  index = won?(board)
+  if index == false
+    return nil
+  else
   
 end 
 ### IF X WON RETURN X 
