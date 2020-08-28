@@ -57,11 +57,11 @@ end
 end 
 
 def winner(board)
+end 
 ### IF X WON RETURN X 
 
-return "X"
+###return "X"
 ## ELSE-  O WON RETURN O 
-else return "O"
-
-  
+##else return "O"
+##end 
   
